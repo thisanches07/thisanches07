@@ -1,5 +1,5 @@
 ## Hi there! I'm Thiago
-- 🎓 Computer Engineering student
+- 🎓 Computer Engineering student (7/10)
 - 💻 Working with Java back-end (intern)
 <div align="center">
   <a href="https://github.com/thisanches07">
@@ -13,6 +13,16 @@
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+  
+  ### Ferramentas:
+  <div>
+  
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+    ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+    ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+    ![Radar](https://img.shields.io/badge/-Radar-333333?style=flat&logo=radar)
+  </div>
   
 
 ## 📌 Contact
