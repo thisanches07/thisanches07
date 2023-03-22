@@ -1,5 +1,5 @@
 ## Hi there! I'm Thiago
-- 🎓 Computer Engineering student (7/10)
+- 🎓 Computer Engineering student (9/10)
 - 💻 Working with Java back-end (intern)
 <div align="center"> 
   <a href="https://github.com/thisanches07">
