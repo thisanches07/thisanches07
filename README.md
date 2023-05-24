@@ -2,8 +2,8 @@
 - 🎓 Computer Engineering student (9/10)
 - 💻 Working - Junior Developer (NodeJS)
 <div align="center"> 
-  <img src = "https://github-readme-stats.vercel.app/api?username=thisanches07&show_icons=true&theme=light&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thisanches07&theme=light">
+  <img src = "https://github-readme-stats.vercel.app/api?username=thisanches07&show_icons=true&theme=dark&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thisanches07&theme=dark">
 </div>
   
 <div style="display: inline_block"><br>
