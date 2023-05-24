@@ -27,7 +27,7 @@
   ## 📖 Studying
 <p>
   <img align="center" alt="NestJS" src="https://img.shields.io/badge/nestjs-df234f?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img align="center" alt="Nodejs" src="https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=nodejs&logoColor=black" />
+  <img align="center" alt="Nodejs" src="https://img.shields.io/badge/nodejs-83cd29?style=for-the-badge&logo=nodejs&logoColor=black" />
     
     
 </p>
