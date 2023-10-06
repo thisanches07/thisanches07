@@ -1,5 +1,5 @@
 ## Hi there! I'm Thiago
-- 🎓 Computer Engineering student (9/10)
+- 🎓 Computer Engineering student (10/10)
 - 💻 Working - Junior Developer (NodeJS)
 <div align="center"> 
   <img src = "https://github-readme-stats.vercel.app/api?username=thisanches07&show_icons=true&theme=dark&line_height=40">
